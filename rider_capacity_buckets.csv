@@ -1,0 +1,5 @@
+capacity_bucket,orders,delayed_pct,avg_rider_wait
+1: <0.5 riders/order,1380,29.9,4.16
+2: 0.5-1.0,7792,33.5,4.15
+3: 1.0-2.0,21399,5.5,0.98
+4: 2.0+,29429,3.1,0.98

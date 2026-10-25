@@ -1,0 +1,5 @@
+lateness,orders,avg_rating,cancel_pct
+0: On time,46897,4.79,1.07
+1: Up to 2 min late,8013,4.73,1.54
+2: 2-5 min late,3768,4.51,3.24
+3: 5+ min late,1322,4.01,4.08

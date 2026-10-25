@@ -1,0 +1,13 @@
+store_id,city,area,riders_on_roster,avg_distance_km
+DS01,Hyderabad,Gachibowli,34,1.41
+DS02,Hyderabad,Madhapur,27,2.88
+DS03,Hyderabad,Kukatpally,29,2.83
+DS04,Hyderabad,Banjara Hills,33,2.24
+DS05,Hyderabad,Uppal,26,1.95
+DS06,Hyderabad,Miyapur,31,1.9
+DS07,Bengaluru,Koramangala,32,1.86
+DS08,Bengaluru,Indiranagar,18,2.2
+DS09,Bengaluru,Whitefield,9,3.31
+DS10,Bengaluru,HSR Layout,20,2.4
+DS11,Bengaluru,Electronic City,14,4.1899999999999995
+DS12,Bengaluru,Jayanagar,33,2.83
